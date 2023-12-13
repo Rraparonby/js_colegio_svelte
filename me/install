@@ -1,0 +1,8 @@
+Node
+  npm install @types/node --save-dev
+
+Sass
+  npm install sass --save-dev
+
+Router
+  npm install --save svelte-routing
